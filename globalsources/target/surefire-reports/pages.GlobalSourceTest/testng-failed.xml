@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [pages.GlobalSourceTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="pages.GlobalSourceTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testName"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- pages.GlobalSourceTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [pages.GlobalSourceTest] -->
